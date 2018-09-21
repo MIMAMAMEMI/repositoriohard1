@@ -1,0 +1,42 @@
+html{
+	font-family: "Gamja Flower",curcive;
+}
+}
+/*
+para hacer comentarios
+*/
+#principal p{
+	border:2px solid red;
+}
+p{
+	font-family:´pacifico´, curcive;
+}
+
+html{
+	font-family:´pacifico´, curcive;
+}
+
+#principal{
+	background-color: blue;
+	border:2px solid green;
+	padding: 15px;
+
+}
+
+
+#contenedor{
+	background-color: blue;
+	border: 5px solid black;
+	padding-bottom: 20px
+}
+#segundo{
+	margin-top: 20px;
+	background-color: pink;
+	border:2px solid black;
+}
+@font-face{
+	font-family: "Gamja Flowerr",curcive;
+	src:url("Gamja Flower.tff")format("truetype");
+}
+
+
